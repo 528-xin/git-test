@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("master 4:50 change");
         System.out.println("hot-fix 4:49 change");
         System.out.println("push 6:00");
+        System.out.println("pull 6:05");
     }
 }
